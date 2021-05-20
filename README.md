@@ -1,2 +1,2 @@
 # Autocomplite
-Project autocomplite on C++
+Project autocomplete on C++
